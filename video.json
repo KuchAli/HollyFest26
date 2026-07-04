@@ -1,0 +1,25 @@
+{
+    "videos":[
+        {
+            "title":"Konten 1",
+            "description":"Konten Kenang-kenangan HolyFest 2026",
+            "thumbnail":"images/gallery/3.jpg",
+            "video":"images/video/1.mov",
+            "duration":"01:00"
+        },
+        {
+            "title":"Konten 2",
+            "description":"Konten Kenang-kenangan HolyFest 2026",
+            "thumbnail":"images/gallery/3.jpg",
+            "video":"images/video/2.mov",
+            "duration":"01:00"
+        },
+        {
+            "title":"Konten 3",
+            "description":"Konten Kenang-kenangan HolyFest 2026",
+            "thumbnail":"images/gallery/3.jpg",
+            "video":"images/video/3.mov",
+            "duration":"01:00"
+        }
+    ]
+}
