@@ -1,0 +1,53 @@
+{
+    "gallery":[
+        {
+            "image": "images/gallery/1.jpg",
+            "title": "Opening Ceremony",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Opening"
+        },
+        {
+            "image": "images/gallery/2.jpg",
+            "title": "Opening Ceremony",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Opening"
+        },
+        {
+            "image": "images/gallery/3.jpg",
+            "title": "Foto Seangkatan",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Foto Seangkatan"
+        },
+        {
+            "image": "images/gallery/4.jpg",
+            "title": "Foto Seangkatan",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Foto Seangkatan"
+        },
+        {
+            "image": "images/gallery/5.jpg",
+            "title": "Holly Fest Main Event",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Main Event"
+        },
+        {
+            "image": "images/gallery/6.jpg",
+            "title": "Holly Fest Main Event",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Main Event"
+        },
+        {
+            "image": "images/gallery/7.jpg",
+            "title": "Holly Fest Main Event",
+            "date": "9 Mei 2026",
+            "photographer": "Studio Kesuma Bangsa 2",
+            "category": "Main Event"
+        }
+    ]
+}
