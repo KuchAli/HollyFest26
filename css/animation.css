@@ -1,0 +1,37 @@
+.animate{
+    opacity:0;
+    transform:translateY(40px) scale(.95);
+    animation:heroText 1s ease forwards;
+}
+
+@keyframes heroText{
+
+    from{
+        opacity:0;
+        transform:translateY(40px) scale(.95);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0) scale(1);
+    }
+
+}
+
+.rotate{
+
+    animation:spin 4s linear infinite;
+
+}
+
+@keyframes spin{
+
+    from{
+        transform:rotate(0);
+    }
+
+    to{
+        transform:rotate(360deg);
+    }
+
+}

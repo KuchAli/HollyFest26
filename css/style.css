@@ -4,7 +4,7 @@
 :root{
      --primary:#3B82F6;
     --secondary:#1E293B;
-    --accent:#090a0b;
+    --accent:#358fb0;
 
     --white:#F8FAFC;
     --gray:#94A3B8;
@@ -46,7 +46,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     backdrop-filter: blur(10px);
-    background: rgba(185, 121, 70, 0.894);
+    background:#1f29375b;
 
     z-index: 999;
 }
@@ -55,6 +55,7 @@ nav{
     font-size:28px;
     font-family:'Poppins';
     font-weight:700;
+    color: #ff6f00c7;
 }
 
 nav ul{
@@ -224,4 +225,32 @@ nav a:hover{
     font-size:14px;
 }
 
+
+/* tombol music */
+#music-btn{
+    position:fixed;
+    right:25px;
+    bottom:25px;
+
+    width:60px;
+    height:60px;
+
+    border:none;
+    border-radius:50%;
+
+    background:#8b5e3c45;
+    color:white;
+
+    cursor:pointer;
+
+    font-size:20px;
+
+    z-index:9999;
+
+    transition:.3s;
+}
+
+#music-btn:hover{
+    transform:scale(1.1);
+}
 
