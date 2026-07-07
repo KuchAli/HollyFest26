@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animation.css">
     <title>Holly Fest - AMERTHA 2026</title>
 </head>
 <body>
@@ -24,8 +25,8 @@
     <header class="hero" id="hero">
         <img src="images/hero.jpg" alt="">
         <div class="hero-content">
-            <h1>HollyFest 2026</h1>
-            <p>AMERTHA - Present</p>
+            <h1 class="animate">HollyFest 2026</h1>
+            <p class="animate delay-1">AMERTHA - Present</p>
         </div>
     </header>
 
@@ -51,15 +52,23 @@
             </div>
 
         </section>
+
     </main>
 
+    <button id="music-btn" class="rotate">
+        🎵
+    </button>
+    
+    <audio id="bgm" loop>
+        <source src="bgm.mp3" type="audio/mpeg">
+    </audio>
     <!-- footer -->
-    <footer style="background-color: #3f3b3b; margin-top: 10px;">
+    <footer style="background-color: #1f2937; margin-top: 10px;">
          <p style="text-align: center; color: aliceblue;">Copyright &copy; 2026. All Rights Reserved.</p>
     </footer>
 
     <script src="js/gallery.js"></script>
     <script src="js/video.js"></script>
-
+    <script src="js/animation.js"></script>
 </body>
 </html>
